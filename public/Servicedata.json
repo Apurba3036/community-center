@@ -1,0 +1,58 @@
+[
+  {
+    "_id": "66839d8f92910752f3ad8dd8",
+    "image": "https://images.squarespace-cdn.com/content/v1/63038d2ce9eaf419b03f90f2/1661438690847-1W657GGUOBZOVTYUKQ02/Side+Janu+sirsasana+whole+group.jpeg",
+    "title": "Health and Wellness",
+    "description": "Attend our yoga sessions, meditation workshops, and nutrition seminars to improve your health and well-being. Our health and wellness programs are designed to help you achieve a balanced and fulfilling lifestyle through a variety of activities that promote physical, mental, and emotional well-being.",
+    "price": 10000
+  },
+  {
+    "_id": "66839d8f92910752f3ad8dd3",
+    "image": "https://c4.wallpaperflare.com/wallpaper/150/405/308/birthday-celebration-happy-holiday-wallpaper-preview.jpg",
+    "title": "Birthday",
+    "description": "Celebrate your special day with us. Our hall is perfect for birthday parties, with all the amenities you need for a memorable event. We provide a festive environment, complete with decorations, catering options, and entertainment to ensure that your birthday celebration is enjoyable and stress-free.",
+    "price": 20000
+  },
+  {
+    "_id": "66839d8f92910752f3ad8dd4",
+    "image": "https://c1.wallpaperflare.com/preview/89/851/708/ring-hastmelap-wedding-marriage-indian-hindu.jpg",
+    "title": "Marriage",
+    "description": "Make your wedding day unforgettable. Our spacious and elegant hall is ideal for marriage ceremonies and receptions. We offer a full range of services to make your special day perfect, including decorations, catering, music, and more, all tailored to your unique preferences and cultural traditions.",
+    "price": 50000
+  },
+  {
+    "_id": "66839d8f92910752f3ad8dd5",
+    "image": "https://wallpapercave.com/wp/wp2848024.jpg",
+    "title": "Party",
+    "description": "Host your next party in our versatile hall, suitable for any kind of celebration, from casual gatherings to formal events. We provide a dynamic space that can be customized to fit your needs, along with comprehensive event planning services to ensure your party is a success.",
+    "price": 30000
+  },
+  {
+    "_id": "66839d8f92910752f3ad8dd6",
+    "image": "https://c1.wallpaperflare.com/preview/46/762/486/pottery-souvenir-traditional-art-travel-craft.jpg",
+    "title": "Art and Craft Workshops",
+    "description": "Join our art and craft workshops to explore painting, pottery, sculpture, and more. These workshops provide a creative space where you can learn new skills, meet like-minded individuals, and express your artistic talents through a variety of hands-on projects.",
+    "price": 15000
+  },
+  {
+    "_id": "66839d8f92910752f3ad8dd7",
+    "image": "https://hub.laboratoria.la/hubfs/beneficios-hackathon-1.png",
+    "title": "Technology and Digital Media",
+    "description": "Participate in classes focused on coding, graphic design, video production, and other digital media skills. Our technology and digital media programs are designed to equip you with the knowledge and tools needed to excel in today's digital world, whether you're a beginner or looking to advance your career.",
+    "price": 25000
+  },
+  {
+    "_id": "66839d8f92910752f3ad8dd9",
+    "image": "https://www.bproperty.com/blog/wp-content/uploads/2021/05/shutterstock_1152942239-min-scaled.jpg",
+    "title": "Cultural Events",
+    "description": "Experience the richness of different cultures through our cultural events. We host a variety of events that celebrate diverse traditions, including music, dance, food festivals, and cultural exhibitions. These events are a wonderful way to learn about and appreciate the cultural heritage of different communities.",
+    "price": 18000
+  },
+  {
+    "_id": "66839d8f92910752f3ad8dda",
+    "image": "https://bdbusinesssummit.com/wp-content/uploads/2023/03/Bangladesh-Business-Summit-2023-Inaugural-and-CNN-Experience-Glimpse-YouTube-1024x529.webp",
+    "title": "Business Seminar",
+    "description": "Enhance your business skills and knowledge by attending our business seminars. These seminars cover a wide range of topics including entrepreneurship, marketing strategies, financial management, and more. Whether you're a seasoned professional or just starting out, our seminars provide valuable insights and networking opportunities.",
+    "price": 22000
+  }
+]
